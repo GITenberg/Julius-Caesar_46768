@@ -1,0 +1,28 @@
+_repo: Julius-Caesar_46768
+contributor:
+  translator:
+    agent_name: Denison, Henricus
+    gutenberg_agent_id: '43946'
+    url: http://www.gutenberg.org/2009/agents/43946
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2014-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46768'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Julius Caesar
+url: http://www.gutenberg.org/ebooks/46768
